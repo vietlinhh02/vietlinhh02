@@ -42,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/vietlinhh02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vietlinhh02&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietlinhh02&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vietlinhh02&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietlinhh02&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
