@@ -50,7 +50,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nguyen%20Viet%20Linh-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/vietlinhlinh_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vietlinhlinh__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nvlinh0607@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nvlinh0607@gmail.com-blue?style=flat-square&logo=gmail"></a>
