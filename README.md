@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Multimedia and Technology at Hanoi University of Industry.
-- 💼 &nbsp; Working as a CEO at vietlinhh02 technology.
+- 💼 &nbsp; Working as a CEO at đắng. studio.
 - 🌱 &nbsp; Learning more about JavaScript and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
