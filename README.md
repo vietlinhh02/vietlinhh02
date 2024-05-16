@@ -52,7 +52,7 @@
 
 <p>
 <a href="https://facebook.com/eddiesngu/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nguyen%20Viet%20Linh-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/vietlinhlinh_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vietlinhlinh.__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/vietlinhlinh._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vietlinhlinh._-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nvlinh0607@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nvlinh0607@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
