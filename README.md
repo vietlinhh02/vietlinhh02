@@ -8,9 +8,15 @@
   </p>
 
   <p>
-    <a href="mailto:nvlinh0607@gmail.com">Email</a> ·
-    <a href="https://facebook.com/eddiesngu/">Facebook</a> ·
-    <a href="https://www.instagram.com/vietlinhlinh._/">Instagram</a>
+    <a href="mailto:nvlinh0607@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://facebook.com/eddiesngu/">
+      <img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.instagram.com/vietlinhlinh._/">
+      <img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </p>
 </div>
 
@@ -28,25 +34,38 @@ thoughtful design should strengthen each other.
 
 ## Selected work
 
+- **[AiSee](https://github.com/vietlinhh02/aiseeapp):** Assistive AI platform for people
+  with visual impairments, including calls, messaging, reminders, and voice assistance.
+  The mobile app and [Go backend](https://github.com/vietlinhh02/aiseebackend) work as one
+  product. `Flutter` `Dart` `Go` `PostgreSQL`
+
+- **[C2 App 053](https://github.com/AI20K-Build-Cohort-2/C2-App-053):** AI-powered
+  literature review workspace for searching, organizing, and analyzing research papers.
+  `Python` `TypeScript` `React` `FastAPI` `PostgreSQL`
+
 - **[ATrips](https://github.com/vietlinhh02/atrips.com):** Conversational AI travel
-  planning, collaboration, and itinerary sharing. [Live site](https://ai.visme.tech) ·
+  planning, collaboration, and itinerary sharing. [Live site](https://ai.visme.tech)
   `TypeScript` `Next.js` `FastAPI` `PostgreSQL`
 
 - **[ITVX](https://github.com/vietlinhh02/itvx):** AI recruiting for JD analysis, CV
-  screening, and real-time interviews · `Python` `Next.js` `LiveKit` `Gemini`
+  screening, and real-time interviews. `Python` `Next.js` `LiveKit` `Gemini`
 
 - **[Vietnamese Fact Checking](https://github.com/vietlinhh02/vietnamese-fact-checking):**
-  Research platform for verifying Vietnamese claims with agent-based reasoning · `Python`
+  Research platform for verifying Vietnamese claims with agent-based reasoning. `Python`
   `ReAct` `Jupyter`
-
-- **[AI Log](https://github.com/vietlinhh02/ai-log):** One-line session logging across
-  Codex, Claude Code, Gemini CLI, Cursor, and Copilot · `PowerShell` `Shell` `TypeScript`
-  `Python`
 
 ## Toolbox
 
-`TypeScript` `Python` `Go` `React` `Next.js` `Node.js` `FastAPI` `PostgreSQL`
-`Docker` `Git` `Figma`
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=ts,python,go,dart,flutter,react,nextjs,nodejs"
+    alt="TypeScript, Python, Go, Dart, Flutter, React, Next.js, and Node.js"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,figma"
+    alt="FastAPI, PostgreSQL, Docker, Git, and Figma"
+  />
+</p>
 
 ## GitHub activity
 
