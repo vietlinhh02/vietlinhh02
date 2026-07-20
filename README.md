@@ -9,16 +9,16 @@
 
   <p>
     <a href="mailto:nvlinh0607@gmail.com">
-      <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://facebook.com/eddiesngu/">
-      <img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="https://www.instagram.com/vietlinhlinh._/">
-      <img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="./assets/NGUYEN_VIET_LINH_CV.pdf">
-      <img src="https://img.shields.io/badge/CV-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Curriculum vitae" />
+      <img src="https://img.shields.io/badge/View_CV-D7263D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Curriculum vitae" />
     </a>
   </p>
 </div>
