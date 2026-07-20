@@ -53,16 +53,12 @@ thoughtful design should strengthen each other.
   literature review workspace for searching, organizing, and analyzing research papers.
   `Python` `TypeScript` `React` `FastAPI` `PostgreSQL`
 
-- **[ATrips](https://github.com/vietlinhh02/atrips.com):** Conversational AI travel
+- **[atripsme](https://github.com/vietlinhh02/atrips.com):** Conversational AI travel
   planning, collaboration, and itinerary sharing. [Live site](https://ai.visme.tech)
   `TypeScript` `Next.js` `FastAPI` `PostgreSQL`
 
 - **[ITVX](https://github.com/vietlinhh02/itvx):** AI recruiting for JD analysis, CV
   screening, and real-time interviews. `Python` `Next.js` `LiveKit` `Gemini`
-
-- **[Vietnamese Fact Checking](https://github.com/vietlinhh02/vietnamese-fact-checking):**
-  Research platform for verifying Vietnamese claims with agent-based reasoning. `Python`
-  `ReAct` `Jupyter`
 
 ## Toolbox
 
