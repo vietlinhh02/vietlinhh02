@@ -17,6 +17,9 @@
     <a href="https://www.instagram.com/vietlinhlinh._/">
       <img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <a href="./assets/NGUYEN_VIET_LINH_CV.pdf">
+      <img src="https://img.shields.io/badge/CV-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="Curriculum vitae" />
+    </a>
   </p>
 </div>
 
@@ -31,6 +34,13 @@ I enjoy taking ideas from early experiments to usable products. My goal is to ma
 technically ambitious software clear, reliable, and genuinely helpful to the people using
 it. I care about both how a system works and how it feels, because good engineering and
 thoughtful design should strengthen each other.
+
+## Achievements
+
+- **2nd Prize in Student Scientific Research, HaUI (2024 to 2025):** Research project
+  “Bitter”.
+- **Top 30, Google Hackathon (2026):** Built InterviewX, a real-time AI mock interviewer
+  using Gemini, LiveKit, FastAPI, and Next.js.
 
 ## Selected work
 
